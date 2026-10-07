@@ -48,6 +48,6 @@ $$
 
 3. 图片参考(用图片的实际地址就行):
 
-<img src='http://data.apachecn.org/img/logo/logo_green.png' width=20% />
+<img src='http://data.dafeiyang.cn/img/logo/logo_green.png' width=20% />
 
 4. **翻译完后请删除上面所有模版内容就行**
